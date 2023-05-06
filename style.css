@@ -26,16 +26,19 @@ body {
 nav ul {
     width: 100%;
     list-style: none;
-    padding: 0;
+    padding: 1em;
     margin: 0 auto;
     display: flex;
     justify-content: space-around;
     color: #777;
+    border-top: 1px solid #777;
+    border-bottom: 1px solid #777;
+    
 
 }
 img {
     width: 100%;
-}   
+}       
 sections {
     display: inline-block;
 }
