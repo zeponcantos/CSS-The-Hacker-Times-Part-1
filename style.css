@@ -36,6 +36,20 @@ nav ul {
     
 
 }
+main h2 {
+    font-family:  Roboto Slab;
+    font-size: 45pt;
+
+}
+main h5{
+    font-family:  Roboto Slab;
+    font-size: 20pt;
+    color: red;
+}
+
+main p {
+    font-family: Source Sans Pro;
+}
 img {
     width: 100%;
 }       
